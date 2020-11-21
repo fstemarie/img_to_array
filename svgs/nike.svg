@@ -12,8 +12,11 @@
    viewBox="0 0 128 64.000001"
    version="1.1"
    id="svg8"
-   sodipodi:docname="nike-4-logo-svgrepo-com.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   sodipodi:docname="nike.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="D:\Francois\Documents\Development\Python\img_to_array\images\nike.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -42,7 +45,7 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="4.4097201"
-     inkscape:cx="57.713413"
+     inkscape:cx="57.373255"
      inkscape:cy="60.094517"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -56,12 +59,33 @@
      inkscape:snap-grids="false"
      inkscape:object-nodes="false"
      inkscape:snap-nodes="true"
-     inkscape:snap-page="true" />
+     inkscape:snap-page="true"
+     inkscape:document-rotation="0"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="false">
+    <sodipodi:guide
+       position="128,64.000001"
+       orientation="1,0"
+       id="guide9" />
+    <sodipodi:guide
+       position="-1.9912e-07,64.000001"
+       orientation="1,0"
+       id="guide11" />
+    <sodipodi:guide
+       position="0,64.000001"
+       orientation="0,-1"
+       id="guide13" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,-1"
+       id="guide15" />
+  </sodipodi:namedview>
   <g
      fill-rule="evenodd"
      clip-rule="evenodd"
      id="g6"
-     transform="matrix(0.1564706,0,0,0.1564706,0.45354393,33.562226)">
+     transform="matrix(0.77320245,0,0,0.77320245,-13.833077,-40.088239)">
     <path
        fill="#ffffff"
        d="M 0,0 H 192.756 V 192.756 H 0 Z"
